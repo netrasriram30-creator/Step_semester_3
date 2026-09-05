@@ -1,4 +1,4 @@
-package oops.assignment_problems;
+package week3;
 class PayrollAccount{
     private double basicSalary;
     private double bonus;

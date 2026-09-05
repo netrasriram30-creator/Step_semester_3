@@ -1,4 +1,4 @@
-package oops.assignment_problems;
+package week3;
 class Employee{
     String empId;
     String empName;
